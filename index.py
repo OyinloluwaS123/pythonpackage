@@ -1,3 +1,3 @@
-from MyMainPackage.SubPackage import mysubscript
+from functions.operations import sum
+print(sum(5,6))
 
-mysubscript.SubScript()
